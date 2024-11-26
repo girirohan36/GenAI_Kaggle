@@ -1,36 +1,46 @@
-#GenerativeAI GoogleCloud
+# Google Generative AI Kaggle
+
+Welcome to my repository for sharing insights, key learnings, and resources from the **Google Gen AI Fast-Track Training**! 
+This 5-day intensive program offered a deep dive into cutting-edge topics in **Generative AI**, and this repo serves as a consolidated space for documenting my journey and practical applications.
+
+---
+
+## Overview
+
+The **Google Gen AI Fast-Track Training** provided invaluable insights into:
+1. **Prompt Engineering**: Techniques for optimizing LLM interactions.
+2. **Embeddings & Vector Databases**: Understanding their role in data classification and search.
+3. **Generative AI Agents**: Building systems that integrate LLMs with real-world applications.
+4. **Domain-Specific LLMs**: Fine-tuning and leveraging models for specialized use cases.
+5. **MLOps for Generative AI**: Adapting MLOps practices to accelerate development and deployment.
+
+---
+
+## 💡 Key Highlights
+
+### 📜 **Prompt Engineering**
+- Techniques to craft effective prompts for optimized interactions with LLMs.
+
+### 📊 **Embeddings and Vector Databases**
+- Insights into their role in similarity search, data classification, and retrieval-augmented generation (RAG).
+
+### 🤖 **Generative AI Agents**
+- Connecting LLMs to real-world systems, enabling smarter and more efficient workflows.
+
+### 🧑‍🔬 **Domain-Specific LLMs**
+- Fine-tuning models like SecLM and Med-PaLM for specialized applications.
+
+### 🛠 **MLOps Practices**
+- Leveraging tools like **Vertex AI** to adapt MLOps workflows for Generative AI.
 
 
-🪙 **Day 1: Foundational Models & Prompt Engineering**  
-I explored the evolution of large language models (LLMs), from transformers to cutting-edge techniques like fine-tuning and inference acceleration. I also trained in the art of prompt engineering to enhance interactions with LLMs for optimal outcomes.  
+## Resources
+- [Google AI](https://ai.google/)  
+- [Kaggle Generative AI Resources](https://www.kaggle.com/discussions/general/545082)  
+- [Vertex AI](https://cloud.google.com/vertex-ai)  
 
-🪙 **Day 2: Embeddings and Vector Stores/Databases**  
-I dived deep into the concept of embeddings and vector databases, learning about embedding methods, vector search algorithms, and their real-world applications with LLMs. I also analyzed the trade-offs involved in leveraging these tools effectively.  
+##  Contact
+If you have questions or want to collaborate, feel free to reach out:
+- **Email**: [girirohan36@gmail.com](mailto:girirohan36@gmail.com)  
+- **LinkedIn**: [Rohan Giri](https://linkedin.com/in/girirohan36)
 
-🪙 **Day 3: Generative AI Agents**  
-I learned to build sophisticated AI agents by breaking down their core components and understanding the iterative development process needed to refine them.  
-
-🪙 **Day 4: Domain-Specific LLMs**  
-I explored the creation and application of specialized LLMs like SecLM and Med-PaLM. Hearing directly from the researchers who developed them offered unique insights into their design and use cases.  
-
-🪙 **Day 5: MLOps for Generative AI**  
-I discovered how to adapt MLOps practices specifically for Generative AI. Using tools like Vertex AI, I gained hands-on experience with foundational models and generative AI applications, focusing on efficiency and scalability.
-
-
-
-💡 Key Highlights
-
-📜 Prompt Engineering
-Techniques to craft effective prompts for optimized interactions with LLMs.
-
-📊 Embeddings and Vector Databases
-Insights into their role in similarity search, data classification, and retrieval-augmented generation (RAG).
-
-🤖 Generative AI Agents
-Connecting LLMs to real-world systems, enabling smarter and more efficient workflows.
-
-🧑‍🔬 Domain-Specific LLMs
-Fine-tuning models like SecLM and Med-PaLM for specialized applications.
-
-🛠 MLOps Practices
-Leveraging tools like Vertex AI to adapt MLOps workflows for Generative AI.
